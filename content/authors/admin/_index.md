@@ -36,10 +36,10 @@ education:
   courses:
     - course: PhD 
       institution: Chinese Academy of Sciences
-      year: 2015-2020
+      year: 2020
     - course: Bachalor Degree
       institution: Beijing Normal University
-      year: 2011-2015
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
