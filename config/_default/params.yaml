@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: mr_robot
+  # theme_night: minimal
   font: minimal
   font_size: L
 
@@ -34,11 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
+    show_translations: true
+    show_language: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
